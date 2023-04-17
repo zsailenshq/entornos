@@ -12,9 +12,13 @@ public class Persona {
 	public int getEdad() {
 		
 		System.out.println("Esta es la edad");
-		System.out.println("España");
+
+		System.out.println("Espaï¿½a");
 		
 		System.out.println("FONELERO DE CORAZON");
+
+		System.out.println("Espaï¿½a, es guay");
+
 		return edad;
 		
 		
